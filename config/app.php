@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'LaravelWebApp'),
+    'name' => env('APP_NAME', 'NobuharaLaravelWebApp'),
 
     /*
     |--------------------------------------------------------------------------
@@ -26,7 +26,7 @@ return [
     |
     */
 
-    'env' => env('APP_ENV', 'LaravelWebApp'),
+    'env' => env('APP_ENV', 'NobuharaLaravelWebApp'),
 
     /*
     |--------------------------------------------------------------------------
